@@ -2,9 +2,13 @@
 
 Project Members:
 Uday PB (udaypb)
+
 Harish (bhutraharish)
+
 Vipanchi Chacham (vchacham)
+
 Pranjali (jpranjali96)
+
 Anjali (singhanjali1159)
 
 This project is an implementation and extension of Yixuan Zhang, K., Chanana, and Dunne. "IDMVis: Temporal Event Sequence
