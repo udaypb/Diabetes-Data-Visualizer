@@ -1,0 +1,26 @@
+.left_button{
+    border-radius: 3px; 
+    background-color: grey; 
+    color: white"
+}
+.right_button{
+    border-radius: 3px; 
+    border-color:grey;
+    background-color: grey; 
+    color: white"
+}
+
+label{
+    border-radius: 3px; 
+    background-color: grey; 
+    color:white;
+}
+input{
+    border-radius: 3px; 
+}
+
+select{
+    border-radius: 3px; 
+    background-color: grey; 
+    color:white;
+}
